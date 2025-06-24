@@ -3,7 +3,7 @@
 A lightweight chatbot that answers banking FAQs using only free, open-source NLP models.
 
 ## 🔗 Live Demo
-Access the bot here: [Jupiter FAQ Bot Live](https://huggingface.co/spaces/thecoderhere/jupiter-faq-bot)
+Access the bot here: [FAQ Bot Live](https://huggingface.co/spaces/thecoderhere/jupiter-faq-bot)
 
 ## 🔍 Features
 - 87.3% accuracy
